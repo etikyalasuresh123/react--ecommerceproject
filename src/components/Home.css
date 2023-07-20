@@ -1,0 +1,28 @@
+h1{
+    font-size: 60px;
+}
+p1{
+    font-size: 30px;
+
+}
+.block4{
+    
+    border: 1px solid blue;
+    width:1050px;
+    height: 150px;
+   margin-left: 230px;
+   border-radius: 10px;
+}
+body{
+    background-color: lightblue;
+ }
+ .rounded{
+    margin:20px;
+ }
+.footerpage{
+    background-color: tomato;
+    height: 150px;
+}
+
+
+ 
